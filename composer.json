@@ -1,0 +1,13 @@
+{
+    "name": "dungnv/helloworld",
+    "description": "this is for advanced hello world",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dungnv",
+            "email": "nobinguyen94@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
