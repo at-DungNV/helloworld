@@ -7,5 +7,6 @@
             "email": "nobinguyen94@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {}
 }
